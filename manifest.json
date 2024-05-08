@@ -1,0 +1,17 @@
+{
+    "name":"Mancala JS version",
+    "short_name":"Mancala",
+    "start_url":".",
+    "display":"standalone",
+    "orientation":"landscape",
+    "icons":[
+        {
+          "src": "icon256.png",
+          "sizes": "256x256",
+          "type": "image/png"
+        }
+    ],
+    "service_worker":"service_worker.js",
+    "background_color":"#ffffff",
+    "theme_color":"#000000"
+}
